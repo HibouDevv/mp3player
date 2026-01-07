@@ -1,14 +1,7 @@
 const files = [
-  "achkid.mp3",
-  "we gonna dance.mp3",
-  "marroquinos.mp3",
-  "marhba bikom 1.mp3",
-  "lmaghribiya.mp3",
-  "africa.mp3",
-  "time for africa.mp3",
-  "marhba bikom 2.mp3",
-  "players.mp3",
-  "allahalwatanalmalik.mp3"
+  "song1.mp3",
+  "song2.mp3",
+  "song3.mp3"
 ];
 
 let index = 0;
